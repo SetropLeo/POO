@@ -1,6 +1,6 @@
-import Carro from './Carro';
-import Cliente from './Cliente';
-import Funcionario from './Funcionario';
+import Carro from '../Carro/Carro';
+import Cliente from '../Cliente/Cliente';
+import Funcionario from '../Funcionario/Funcionario';
 
 export default class CompraCarro {
   cliente: Cliente;

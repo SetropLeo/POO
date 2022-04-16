@@ -1,7 +1,7 @@
-import Carro from "./Carro";
-import Cliente from "./Cliente";
-import CompraCarro from "./CompraCarro";
-import Funcionario from "./Funcionario";
+import Carro from "./Carro/Carro";
+import Cliente from "./Cliente/Cliente";
+import CompraCarro from "./Compra/CompraCarro";
+import Funcionario from "./Funcionario/Funcionario";
 
 let carro = new Carro('Civic SI', 1999, 10000);
 
